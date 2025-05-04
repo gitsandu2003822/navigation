@@ -2,6 +2,8 @@ import React from 'react';
 import { Link, Routes, Route } from 'react-router-dom';
 import Services from './services';
 import ContactUs from './ContactUs';
+import './App.css';
+
 
 
 function App() {
